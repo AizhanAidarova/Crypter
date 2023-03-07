@@ -1,0 +1,16 @@
+body{
+    background-color:#2B2B2B;
+}
+.background{
+    width: 100%;
+    display: flex;
+    position: absolute;
+    padding-left: 53px;
+    padding-top: 41px;
+    color: #FFFFFF;
+
+}
+
+.nft{
+    padding-left: 15px;
+}
